@@ -1,0 +1,9 @@
+---
+title: "My First Blog Post"
+description: "A short summary of what this post is about."
+author: "Sean"
+date: "2024-05-24"
+categories: [R, Quarto, Analysis]
+---
+
+Your content goes here...
