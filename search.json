@@ -7,10 +7,24 @@
     "text": "About this site"
   },
   {
+    "objectID": "posts/posts-1/index.html",
+    "href": "posts/posts-1/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "Your content goes here…"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "sean2251.github.io",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "My First Blog Post\n\n\n\nR\n\nQuarto\n\nAnalysis\n\n\n\nA short summary of what this post is about.\n\n\n\n\n\nMay 24, 2024\n\n\nSean\n\n\n\n\n\nNo matching items"
   }
 ]
