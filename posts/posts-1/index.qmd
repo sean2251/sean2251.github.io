@@ -36,8 +36,8 @@ library(gtsummary)
 library(gt)
 
 # make the data for all years, 
-all_points_22_24 <- read_csv("posts/posts-1/final_csvs/all_ramp_points.csv")
-all_passes_22_24 <- read_csv("posts/posts-1/final_csvs/all_ramp_passes.csv")
+all_points_22_24 <- read_csv("final_csvs/all_ramp_points.csv")
+all_passes_22_24 <- read_csv("final_csvs/all_ramp_passes.csv")
 
 # get the total number of our turnovers and opp_turnovers per game
 turnovers_per_game_22_24 <- all_points_22_24 |>
